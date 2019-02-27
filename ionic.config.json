@@ -1,0 +1,7 @@
+{
+  "name": "firebase-login",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
